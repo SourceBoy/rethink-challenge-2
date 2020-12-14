@@ -1,6 +1,6 @@
 'use strict';
 
-import Data from './Data';
+import Data from './Data.js';
 
 const { Component, Fragment } = React;
 const search_client = algoliasearch('RG7EF7O4HB', 'e7fb0319c1640be0f894d48f12c899c7');
